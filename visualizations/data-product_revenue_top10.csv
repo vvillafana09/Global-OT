@@ -1,0 +1,11 @@
+product_id,category_id,category_name,product_name,product_desc,product_revenue
+4,2,Video Card,AMD 100-505989,"Chipset:FirePro W9100,Memory:32GBCore Clock:930MHz"," $888,296.71 "
+142,2,Video Card,AMD FirePro W9100,"Chipset:FirePro W9100,Memory:16GBCore Clock:930MHz"," $734,728.05 "
+91,1,CPU,Intel Xeon E5-2695 V2,"Speed:2.4GHz,Cores:12,TDP:115W"," $707,376.87 "
+102,1,CPU,Intel Xeon E5-2687W V4,"Speed:3.0GHz,Cores:12,TDP:160W"," $678,173.08 "
+186,2,Video Card,PNY VCQK5200-PB,"Chipset:Quadro K5200,Memory:8GBCore Clock:667MHz"," $674,240.70 "
+241,1,CPU,Intel Xeon E5-2699 V4 (OEM/Tray),"Speed:2.2GHz,Cores:22,TDP:145W"," $658,500.00 "
+110,2,Video Card,ATI FirePro W9000,"Chipset:FirePro W9000,Memory:6GBCore Clock:975MHz"," $654,558.85 "
+164,1,CPU,Intel Xeon E5-2637 V2 (OEM/Tray),"Speed:3.5GHz,Cores:4,TDP:130W"," $604,950.00 "
+206,2,Video Card,PNY VCQM6000-24GB-PB,"Chipset:Quadro M6000,Memory:24GBCore Clock:988MHz"," $550,487.00 "
+177,2,Video Card,PNY VCQM5000-PB,"Chipset:Quadro M5000,Memory:8GBCore Clock:861MHz"," $535,036.96 "

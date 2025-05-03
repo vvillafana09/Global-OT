@@ -1,0 +1,11 @@
+product_id,category_id,category_name,product_name,product_desc,product_revenue
+94,5,Storage,Western Digital WD2500AVVS,"Series:AV-GP,Type:5400RPM,Capacity:250GB,Cache:8MB"," $1,399.50 "
+256,5,Storage,Western Digital WD5000AACS,"Series:Caviar Green,Type:5400RPM,Capacity:500GB,Cache:16MB"," $2,294.15 "
+56,5,Storage,Western Digital WD2500AAJS,"Series:Caviar Blue,Type:7200RPM,Capacity:250GB,Cache:8MB"," $2,378.60 "
+44,5,Storage,Seagate ST1000DM010,"Series:BarraCuda,Type:7200RPM,Capacity:1TB,Cache:64MB"," $2,715.35 "
+264,5,Storage,Samsung MZ-75E120B/AM,"Series:850 EVO-Series,Type:SSD,Capacity:120GB,Cache:N/A"," $3,114.65 "
+257,5,Storage,SanDisk SDSSDHII-240G-G25,"Series:Ultra II,Type:SSD,Capacity:240GB,Cache:N/A"," $5,946.50 "
+33,5,Storage,ADATA ASU800SS-128GT-C,"Series:Ultimate SU800,Type:SSD,Capacity:128GB,Cache:N/A"," $7,528.95 "
+104,5,Storage,SanDisk SDSSDA-240G-G26,"Series:SSD PLUS,Type:SSD,Capacity:240GB,Cache:N/A"," $8,136.36 "
+99,5,Storage,Seagate ST1000DX002,"Series:FireCuda,Type:Hybrid,Capacity:1TB,Cache:64MB"," $8,371.38 "
+286,5,Storage,Samsung MZ-V6E500,"Series:960 EVO,Type:SSD,Capacity:500GB,Cache:512MB"," $8,424.00 "

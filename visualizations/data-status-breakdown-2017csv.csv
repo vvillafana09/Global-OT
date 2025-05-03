@@ -1,0 +1,7 @@
+shipped_percentage,canceled_percentage,progress_percentage
+70,12,17
+,,
+status,percentage,
+shipped_percentage,70,
+canceled_percentage,12,
+progress_percentage,17,
